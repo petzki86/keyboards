@@ -15922,6 +15922,9 @@
       (net 49 "Net-(D46-A)") (pinfunction "A") (pintype "passive") (tstamp 96984e62-2758-408e-bf81-d4a1701ae08e))
   )
 
+  (gr_rect (start 31.42 31.63625) (end 283.8325 150.69875)
+    (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d205e132-2fdc-4ea9-9d97-937c25257175))
+
   (segment (start 262.40125 48.99621) (end 262.40379 48.99875) (width 0.25) (layer "F.Cu") (net 1) (tstamp 048f90ae-18dd-45f9-936b-f4fc3c6f6672))
   (segment (start 52.85125 45.69875) (end 52.85125 48.99621) (width 0.25) (layer "F.Cu") (net 1) (tstamp 1171bd3d-3c93-47ee-8a7f-30c67f10912f))
   (segment (start 186.20125 45.69875) (end 186.20125 48.99621) (width 0.25) (layer "F.Cu") (net 1) (tstamp 1404ece7-d5f8-4895-89f5-ca18424e1ed8))
